@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: CadastroDeAlunos
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: joao.pedro.do.sales
+Implementation-Vendor-Id: br.cesed.unifacisa.si2.api
+Build-Jdk: 1.8.0_172
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

@@ -1,0 +1,13 @@
+br\unifacisa\si2\api\repository\ProfessorRepository.class
+br\unifacisa\si2\api\repository\AlunoRepository.class
+br\unifacisa\si2\api\controller\AlunoController.class
+br\unifacisa\si2\api\entity\Aluno.class
+br\unifacisa\si2\api\Application.class
+br\unifacisa\si2\api\controller\SerasaController.class
+br\unifacisa\si2\api\repository\SerasaRepository.class
+br\unifacisa\si2\api\service\AlunoService.class
+br\unifacisa\si2\api\entity\Professor.class
+br\unifacisa\si2\api\service\ProfessorService.class
+br\unifacisa\si2\api\entity\Serasa.class
+br\unifacisa\si2\api\service\SerasaService.class
+br\unifacisa\si2\api\controller\ProfessorController.class
